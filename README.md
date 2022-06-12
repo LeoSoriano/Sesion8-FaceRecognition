@@ -54,7 +54,7 @@ Pasos para crear un Face Recognition
 
 5.- Copiamos ese codigo y lo pegamos en nuestro Notebook.
 
-1[Codigo en Notebook](Imagenes/CodigoCopiadoenNotebook.PNG)
+![Codigo en Notebook](Imagenes/CodigoCopiadoenNotebook.PNG)
 
 Lo que hace este codigo es mandar la informacion al API, regresar la informacion y agarrar si tiene edad, genero, que emocion tiene.
 
