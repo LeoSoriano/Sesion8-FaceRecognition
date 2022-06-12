@@ -34,7 +34,7 @@ Los que creamos nosotros:  nosotros mandamos datos y los resultados y la maquina
 
 -------------------------------------------------------------------------------------------------------
 
-Pasos para crear un Face Recognition
+## Pasos para crear un Face Recognition
 
 1.- Vamos a crear un Notebook en ML azure
 
